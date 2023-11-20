@@ -108,7 +108,6 @@ Execute the program using runserver command.
             <td>FWAD</td>
             <td>CD</td>
             <th colspan="3">FS</th> 
-
         </tr>
         <tr>
             <td class="c1">5-7</td>
@@ -161,7 +160,7 @@ Execute the program using runserver command.
         <tr>
             <td>8.</td>
             <td>19CS409</td>
-            <td>Compiler Design (CD)</td>
+            <td>Complier Design (CD)</td>
         </tr>
     </table>
 </body>
@@ -169,7 +168,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![image](https://github.com/selvasachein/slot/assets/127576283/d0db1eb2-5e03-4989-ae62-4ece054e41bc)
+![Screenshot (431)](https://github.com/selvasachein/slot/assets/127576283/41d94c17-e036-425b-aee7-7fbc7fdcedd8)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
